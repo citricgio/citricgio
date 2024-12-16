@@ -18,6 +18,11 @@
 - **Funcionalidades**: Cadastro de clientes e processos, armazenamento de documentos em pastas, preenchimento automático de formulário, integração com sistema Apple
 - **OBS**: Consome a API pública do CNJ (DataJud API)
 
+### [Tentálculos](https://apps.apple.com/br/app/tent%C3%A1lculos/id6477624788)
+- **Descrição**: Serious Game para ensino de equações matemáticas de primeiro grau
+- **Tecnologias**: SwiftUI, SpriteKit, AVFoundation, GameCenter
+- **Funcionalidades**: Drag and drop de elementos, subtração/divisão de elementos na equação, tutorial
+- **OBS**: 🏆 App tema de [artigo](https://link.springer.com/chapter/10.1007/978-3-031-74138-8_29) selecionado na Joint Conference on Serious Games na NYU
 <!--
 **citricgio/citricgio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
