@@ -2,6 +2,7 @@
 - Sou desenvolvedora iOS há 2 anos na Apple Developer Academy | Mackenzie, com experiência em UIKit e SwiftUI
 - Faço parte do Laboratório JAS3, para o qual estou desenvolvendo um app de gerenciamento de informações médicas e monitoramento remoto do LVAD (Left Ventricular Assist Device)
 - Estou cursando o 7º semestre de Sistemas de Informação pela Universidade Presbiteriana Mackenzie
+- Realizei workshops sobre desenvolvimento em Swift
 
 ### Contato
 
