@@ -12,7 +12,7 @@
 <!--<a href="https://wa.me/5511976590460" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>-->
 </div>
 
-## 📱 Projetos Desenvolvidos
+## 📱 Principais Projetos Desenvolvidos
 ### [Arqion](https://apps.apple.com/br/app/arqion/id6726994621?mt=12)
 - **Descrição**: Aplicativo gerenciador de documentos e processos jurídicos para advogados
 - **Tecnologias**: SwiftUI, AppKit, PDFKit, CoreData, XCTest, Contacts, Combine
