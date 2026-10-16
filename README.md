@@ -2,7 +2,7 @@
 I'm an iOS Software Engineer who enjoys solving problems through technology and design :D
 
 - B.Sc. in Information Systems, Mackenzie Presbyterian University
-- 2x Published Author
+- 3x Published Author
 - Building cool apps since 2023
 
 ### Contact Me 
